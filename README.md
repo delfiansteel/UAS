@@ -95,6 +95,9 @@ while True:
         print("Upss ada yang salah, silahkan cek kembali.")
 ```
 
+**Berikut Struktur Package & Modul**
+![gambar 5](screenshot/5.png)
+
 **Output:**
 
 Tambah data
