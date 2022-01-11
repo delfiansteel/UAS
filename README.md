@@ -96,6 +96,7 @@ while True:
 ```
 
 **Berikut Struktur Package & Modul**
+
 ![gambar 5](screenshot/5.png)
 
 **Output:**
