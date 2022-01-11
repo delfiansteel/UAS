@@ -1,8 +1,13 @@
 # Ujian Akhir Semester
+
 UAS Bahasa Pemrograman
+
 Nama    : Delfian Ruly Havatilla
+
 Kelas   : TI.21.A1
+
 NIM     : 312110161
+
 **Struktur Package & Module**
 
 
@@ -93,13 +98,17 @@ while True:
 **Output:**
 
 Tambah data
+
 ![gambar 1](screenshot/1.png)
 
 Lihat data
+
 ![gambar 2](screenshot/2.png)
 
 Cari data
+
 ![gambar 3](screenshot/3.png)
 
 Hapus data
+
 ![gambar 4](screenshot/4.png)
